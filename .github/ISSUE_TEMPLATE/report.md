@@ -11,6 +11,7 @@ assignees: ''
 # Information
 
 <!-- Make sure to include things like 'Game of the Year Edition', if applicable -->
+<!-- And also make note if the software version listed in your system menu is not 1.0.0 (or similar) -->
 ### Title: 
 ### Platform: 
 ### Offers Title Updates: <Yes/No>
