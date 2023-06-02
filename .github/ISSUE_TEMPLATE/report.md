@@ -17,8 +17,6 @@ assignees: ''
 ### Offers Title Updates: <Yes/No>
 ### Recommended Status Label: <!-- See https://github.com/MotoLegacy/PatchChecker-List/labels -->
 
-<br>
-
 <!-- Just to verify your title report was accurate and you aren't reporting a digital title by some mistake. Required. -->
 ### Game Disc Image:
 
